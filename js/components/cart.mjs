@@ -1,5 +1,4 @@
 import { default as iceCreams } from "../data/ice-creams.js" ;
-// import { clearCart } from "./clearCart.js";
 
 let carts = document.querySelectorAll(".add-cart");
 
