@@ -1,4 +1,4 @@
-import { default as iceCreams } from "../data/ice-creams.js" ;
+import { default as iceCreams } from "../data/ice-creams.js";
 
 let carts = document.querySelectorAll(".add-cart");
 
